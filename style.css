@@ -1,0 +1,11 @@
+body {
+    background-color: #000000; /* Couleur de fond : Noir */
+    color: #ffffff; /* Texte en blanc pour assurer la lisibilité sur fond noir */
+    font-family: "Times New Roman", Times, serif; /* Police de caractères demandée */
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #0000FF; /* Couleur du titre : Bleu */
+}
